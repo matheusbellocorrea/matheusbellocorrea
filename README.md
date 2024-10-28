@@ -1,21 +1,22 @@
-# 💻 Analista de Dados & Automação RPA | Especialista em Integrações de Sistemas
+# Benvenuto nel mio Progetto! 👋
 
-Sou um analista de dados com mais de 10 anos de experiência na criação de soluções de automação e integração de sistemas para otimizar processos de negócios. Minha jornada abrange desde o desenvolvimento de RPA usando ferramentas como UiPath e Python, até a construção de pipelines de ETL e dashboards que transformam dados em insights estratégicos. Ao longo da minha carreira, sempre fui motivado pela busca de eficiência e pela entrega de valor real por meio da tecnologia.
+Questa è una descrizione del progetto in Italiano. Qui troverai informazioni su come configurare e utilizzare questo progetto, con dettagli e istruzioni passo-passo.
 
-## 🚀 O que eu faço:
-- **Automação de Processos (RPA):** Desenvolvimento de soluções de RPA com UiPath, Python, AutoIt e VBA para eliminar tarefas repetitivas e aumentar a produtividade.
-- **Web Scraping e ETL:** Extração, transformação e carga de dados (ETL) para diversas aplicações, com foco em integração de sistemas e consumo de APIs.
-- **Análise de Dados e Relatórios:** Criação de relatórios customizados e dashboards interativos com Power BI, SQL, e outras ferramentas de visualização.
-- **Suporte e Soluções Técnicas:** Suporte técnico especializado e desenvolvimento de soluções para sistemas de gestão (ERP, contábil e jurídico), incluindo a integração e migração de dados.
+[Leggi in Portoghese](README.pt.md)
 
-## 🌟 Habilidades principais:
-- **Linguagens e Ferramentas:** Python, UiPath, VBA, AutoIt, SQL, Sybase, MySQL, PostgreSQL, Power BI, Excel.
-- **Métodos Ágeis:** Experiência no uso de metodologias ágeis, como Kanban, para gestão eficiente de projetos e atividades.
-- **Integração de Sistemas:** Profundo conhecimento na integração e conversão de dados para sistemas como "Thomson Reuters (Domínio Sistemas)" e outros ERPs.
+## Introduzione
+Questo progetto è stato sviluppato per automatizzare processi e migliorare l'efficienza attraverso l'uso di strumenti come Python, UiPath e Power BI. Sentiti libero di esplorare i repository e contribuire!
 
-## 🔧 Projetos em Destaque:
-- **Automação do Sistema Domínio:** Desenvolvimento de bots para automatizar processos repetitivos no sistema contábil, usando Python e UiPath.
-- **Dashboards de Produtividade:** Criação de dashboards e relatórios para monitoramento de KPIs empresariais, utilizando Power BI e QlikView.
-- **Conversão de Dados:** Projetos de migração de dados complexos, garantindo a integridade e consistência de grandes volumes de dados ao integrar sistemas distintos.
+## Cosa Facciamo:
+- **Automazione dei Processi (RPA):** Sviluppo di soluzioni RPA con UiPath, Python, AutoIt e VBA per eliminare compiti ripetitivi e aumentare la produttività.
+- **Web Scraping e ETL:** Estrazione, trasformazione e caricamento dei dati (ETL) per varie applicazioni, con focus sull'integrazione dei sistemi e il consumo di API.
+- **Analisi dei Dati e Report:** Creazione di report personalizzati e dashboard interattivi con Power BI, SQL e altri strumenti di visualizzazione.
 
-Sempre em busca de novos desafios, meu foco é otimizar processos, reduzir custos e potencializar o uso de dados nas empresas. Se interessou? Explore meus repositórios e veja como minhas soluções podem ajudar a transformar operações diárias em processos eficientes e automatizados.
+## 🔧 Progetti in Evidenza:
+- **Automazione di Sistemi Contabili:** Sviluppo di bot per automatizzare processi ripetitivi in sistemi contabili, usando Python e UiPath.
+- **Dashboard di Produttività:** Creazione di dashboard per monitorare i KPI aziendali, utilizzando Power BI e QlikView.
+- **Conversione dei Dati:** Progetti di migrazione di dati complessi, garantendo l'integrità e la consistenza di grandi volumi di dati durante l'integrazione tra sistemi.
+
+## 📫 Contattaci:
+- [LinkedIn](https://www.linkedin.com/in/matheusbellocorrea/)
+- [Email](mailto:matheusbellocorrea1@gmail.com)
