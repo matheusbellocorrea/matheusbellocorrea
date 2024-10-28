@@ -8,5 +8,5 @@ Sou um Analista de Dados com foco em automação de processos e integração de 
 - **Suporte Técnico e Integração de Sistemas**: Sistemas contábeis e ERPs
 
 ## 📫 Vamos nos conectar?
-- [LinkedIn]((https://www.linkedin.com/in/matheusbellocorrea/))
+- [LinkedIn](https://www.linkedin.com/in/matheusbellocorrea/)
 - [Email](mailto:matheusbellocorrea1@gmail.com)
