@@ -1,22 +1,25 @@
-# Benvenuto nei miei progetti! 👋
+# Ciao! 👋 Benvenuto nel mio Profilo GitHub!
 
-Questa è una descrizione del progetto in Italiano. Qui troverai informazioni su come configurare e utilizzare questo progetto, con dettagli e istruzioni passo-passo.
+Mi chiamo [Seu Nome] e sono uno specialista in automazione e analisi dei dati con una profonda esperienza in RPA, ETL e integrazione di sistemi. Lavoro con strumenti come Python, UiPath e Power BI per creare soluzioni che ottimizzano i processi aziendali e trasformano i dati in informazioni strategiche.
 
 [Leggi in Portoghese](README.pt.md)
 
-## Introduzione
-Questo progetto è stato sviluppato per automatizzare processi e migliorare l'efficienza attraverso l'uso di strumenti come Python, UiPath e Power BI. Sentiti libero di esplorare i repository e contribuire!
+## 💼 Esperienza Professionale
+- **Automazione di Processi (RPA):** Utilizzo di UiPath, Python, AutoIt e VBA per sviluppare automazioni che eliminano compiti ripetitivi e migliorano la produttività.
+- **Analisi dei Dati e Creazione di Report:** Progettazione di report personalizzati e dashboard interattivi con Power BI, SQL, e altri strumenti di visualizzazione.
+- **Integrazione dei Sistemi e Migrazione dei Dati:** Esperto in integrazione e migrazione di dati per sistemi ERP e contabili, garantendo integrità e consistenza dei dati.
 
-## Cosa Facciamo:
-- **Automazione dei Processi (RPA):** Sviluppo di soluzioni RPA con UiPath, Python, AutoIt e VBA per eliminare compiti ripetitivi e aumentare la produttività.
-- **Web Scraping e ETL:** Estrazione, trasformazione e caricamento dei dati (ETL) per varie applicazioni, con focus sull'integrazione dei sistemi e il consumo di API.
-- **Analisi dei Dati e Report:** Creazione di report personalizzati e dashboard interattivi con Power BI, SQL e altri strumenti di visualizzazione.
+## 🚀 Competenze Principali
+- **Linguaggi e Strumenti:** Python, UiPath, VBA, AutoIt, SQL, Sybase, MySQL, Power BI, Excel.
+- **Metodologie Agili:** Esperienza nell'uso di Kanban per una gestione efficiente dei progetti.
+- **Sistemi ERP e Contabili:** Profonda conoscenza di sistemi come Thomson Reuters (Domínio Sistemas) e altri software aziendali.
 
-## 🔧 Progetti in Evidenza:
-- **Automazione di Sistemi Contabili:** Sviluppo di bot per automatizzare processi ripetitivi in sistemi contabili, usando Python e UiPath.
-- **Dashboard di Produttività:** Creazione di dashboard per monitorare i KPI aziendali, utilizzando Power BI e QlikView.
-- **Conversione dei Dati:** Progetti di migrazione di dati complessi, garantendo l'integrità e la consistenza di grandi volumi di dati durante l'integrazione tra sistemi.
+## 🌱 Cosa sto studiando
+Attualmente, sto approfondendo le mie conoscenze in SQL e Python per sviluppare nuove competenze in analisi dei dati e machine learning.
 
-## 📫 Contattaci:
+## 📫 Contatti
 - [LinkedIn](https://www.linkedin.com/in/matheusbellocorrea/)
-- [Email](mailto:matheusbellocorrea1@gmail.com)
+- [Email](mailto:matheusbellocorrea1@gmail.)
+
+Grazie per aver visitato il mio profilo! Sentiti libero di esplorare i miei repository e di connetterti con me.
+
