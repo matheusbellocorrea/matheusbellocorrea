@@ -1,4 +1,4 @@
-# Benvenuto nel mio Progetto! 👋
+# Benvenuto nei miei progetti! 👋
 
 Questa è una descrizione del progetto in Italiano. Qui troverai informazioni su come configurare e utilizzare questo progetto, con dettagli e istruzioni passo-passo.
 
