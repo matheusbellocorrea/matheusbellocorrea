@@ -1,5 +1,5 @@
 
-# Bem-vindo ao Meu Projeto! 👋
+# Bem-vindo aos Meus Projeto! 👋
 
 Esta é uma descrição do projeto em Português. Aqui você encontrará informações sobre como configurar e utilizar este projeto, com detalhes e instruções passo a passo.
 
