@@ -18,7 +18,7 @@ Mi chiamo Matheus Bello Corrêa e sono uno specialista in automazione e analisi 
 Attualmente, sto approfondendo le mie conoscenze in SQL e Python per sviluppare nuove competenze in analisi dei dati e machine learning.
 
 ## 📫 Contatti
-- [LinkedIn](https://www.linkedin.com/in/matheusbellocorrea/)
+
 - [Email](mailto:matheusbellocorrea1@gmail.)
 
 Grazie per aver visitato il mio profilo! Sentiti libero di esplorare i miei repository e di connetterti con me.
